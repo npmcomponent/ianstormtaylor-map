@@ -1,18 +1,14 @@
 {
-  "name": "map",
-  "repository": "git://github.com/ianstormtaylor/map.git",
-  "license": "MIT",
-  "version": "0.1.2",
+  "name": "ianstormtaylor-map",
   "description": "Map an array or object.",
+  "version": "0.1.2",
   "keywords": [
     "map",
     "array",
     "object"
   ],
   "dependencies": {
-    "each-component": "segmentio/each#0.1.x"
+    "component-each": "git://github.com/npmcomponent/component-each.git"
   },
-  "devDependencies": {
-    "mocha": "~1.17.1"
-  }
+  "license": "MIT"
 }
